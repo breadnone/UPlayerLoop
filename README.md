@@ -33,4 +33,4 @@ newEndOfFrame.OnAfterScriptEndOfFrameUpdate +=()=> {Debug.Log("Executed before t
   
 Note: 
 - Runtime only.
-- Use the make a custom class and inherit the CustomPlayerLoop for more controls.   
+- Make a custom class and inherit the CustomPlayerLoop for more control.   
